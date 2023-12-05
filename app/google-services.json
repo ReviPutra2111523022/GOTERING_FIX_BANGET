@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974768756424",
+    "project_id": "gotering-fix",
+    "storage_bucket": "gotering-fix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974768756424:android:bd2cafbafffeb8124077fd",
+        "android_client_info": {
+          "package_name": "com.example.gotering_fix_banget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMv9w0d4rJyDiiwAx4U76ybNrebta9aak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
